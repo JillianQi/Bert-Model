@@ -10,6 +10,7 @@ I will also demonstrate how to load tensors directly from the pre-trained BERT m
     <img src="images/all-steps.png"/ width=800>
 </div>
 
+
 ## Model Initialization and Input Processing
 ### Tokenization
 I won’t be implementing a BPE tokenizer here, but Andrej Karpathy has a neat implementation that you might find useful.
